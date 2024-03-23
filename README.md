@@ -6,9 +6,6 @@
 
 <div align="center">
 <div id="badges">
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/website-D62995?style=for-the-badge&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="mailto:cmnampouri@gmail.com">
     <img src="https://img.shields.io/badge/gmail-E58803?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL Badge"/>
   </a>
@@ -20,6 +17,9 @@
 
 </div>
 
+<!-- <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/website-D62995?style=for-the-badge&logoColor=white" alt="Youtube Badge"/>
+  </a> -->
 ---
 
 ### :woman_technologist: About Me:
