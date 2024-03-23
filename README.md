@@ -1,5 +1,7 @@
 # <div align="center"> Hi 👋, I'm Chryssa Nampouri<div>
 
+<base target="_blank">
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXY1NHgyN3VzMmozb29uN3J1YnhucXdobWhsamlzNHAyNGVnZWkzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="350"/>
 </div>
