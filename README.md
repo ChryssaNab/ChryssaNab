@@ -8,20 +8,21 @@
 
 <div align="center">
 <div id="badges">
+  <a href="https://chryssanab.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/website-yellow?style=for-the-badge&logoColor=white" alt="Youtube Badge"/>
+  </a> 
   <a href="mailto:cmnampouri@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-E58803?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL Badge"/>
+    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/chryssa-m-nampouri-b7bb0b12b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=AE83EB" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blueviolet" alt=""/>
 
 </div>
 
-<!-- <a href="your-youtube-URL" target="_blank">
-    <img src="https://img.shields.io/badge/website-D62995?style=for-the-badge&logoColor=white" alt="Youtube Badge"/>
-  </a> -->
+<!-- -->
 ---
 
 ### :woman_technologist: About Me:
